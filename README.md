@@ -28,11 +28,13 @@ AutoPy is a simple, cross-platform GUI automation library for Python. It include
 It can be installed using "pip install autopy"
 
 ### The Libraries that need to be installed are written in the requirements.txt file
-Python - 3.8.0 </br>
-Opencv-python - 4.6.0.66 </br>
-Mediapipe - 0.8.8 </br>
-Autopy - 3.5.2 </br>
-Numpy - 1.23.1 </br>
+```text
+Python - 3.8.0
+Opencv-python - 4.6.0.66
+Mediapipe - 0.8.8
+Autopy - 3.5.2
+Numpy - 1.23.1
+```
 
 ## 📫 Contact Me: 
 <p align="center">
